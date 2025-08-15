@@ -3,15 +3,15 @@
 </p>**  
 
 
-💻 **BTech IT | Second year | NIT Srinagar**  
+💻 **BTech IT | Pre-final year | NIT Srinagar**  
 🌟 **Passionate about Software Development | Problem Solver**  
-🛠 **Currently working on MERN Stack**  
-⚡ **300+ Problems Solved on LeetCode**  
+🛠 **Currently working on MERN Stack and exploring new technologies **  
+⚡ **350+ Problems Solved on LeetCode**  
 
 ---
 
 ### 🏆 **About Me**  
-🔹 Second-year IT student at NIT Srinagar  
+🔹 Third-year Information Technology student at NIT Srinagar  
 🔹 Passionate about building scalable applications and problem-solving  
 🔹 Enthusiastic about **MERN Stack**, DSA, and Competitive Programming  
 🔹 Open to collaborating on exciting projects and hackathons  
