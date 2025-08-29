@@ -6,7 +6,7 @@
 💻 **BTech IT | Pre-final year | NIT Srinagar**  
 🌟 **Passionate about Software Development | Problem Solver**  
 🛠 **Currently working on MERN Stack and exploring new technologies **  
-⚡ **350+ Problems Solved on LeetCode**  
+⚡ **360+ Problems Solved on LeetCode**  
 
 ---
 
