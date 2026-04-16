@@ -3,16 +3,16 @@
 </p>**  
 
 
-💻 **BTech IT | Pre-final year | NIT Srinagar**  
+💻 **BTech Information technology | Pre-final year | NIT Srinagar**  
 🌟 **Passionate about Software Development | Problem Solver**  
 🛠 **Full stack developer (MERN Stack) , curious about new technologies**  
-⚡ **390+ Problems Solved on LeetCode | 310+ on GFG | Top 31% coders on GFG**  
+⚡ **600+ Problems Solved on LeetCode | 1650+ Contest Rating | 400+ solved on GFG**  
 
 ---
 
 ### 🏆 **About Me**  
 🔹 Third-year Information Technology student at NIT Srinagar  
-🔹 Passionate about building scalable applications and problem-solving  
+🔹 Passionate about building scalable applications and problem-solving with interest in competitive programming  
 🔹 Enthusiastic about **MERN Stack**, DSA, and Competitive Programming  
 🔹 Open to collaborating on exciting projects and hackathons  
 
