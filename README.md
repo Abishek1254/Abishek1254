@@ -6,7 +6,7 @@
 💻 **BTech Information technology | Pre-final year | NIT Srinagar**  
 🌟 **Passionate about Software Development | Problem Solver**  
 🛠 **Full stack developer (MERN Stack) , curious about new technologies**  
-⚡ **600+ Problems Solved on LeetCode | 1650+ Contest Rating | 400+ solved on GFG**  
+⚡ **600+ Problems Solved on LeetCode | 1700+ Contest Rating | 400+ solved on GFG**  
 
 ---
 
